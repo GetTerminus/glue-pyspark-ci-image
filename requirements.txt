@@ -1,0 +1,4 @@
+fake-awsglue==0.0.0.post20190320
+pandas==0.24.2
+pyspark==2.4.0
+pytest==4.4.0
